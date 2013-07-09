@@ -5,13 +5,13 @@ jquery-perfect-background
 
 what does it do?
 =============
-maintains aspect ratio, center positioning, and scale after each window resize or orientation change.
+maintains aspect ratio, center positioning, and scale after each window resize or orientation change. \\
 on window resize the background is faded out and faded back in appropriately scaled and repositioned.
 
 
 how does it work?
 =============
-include jquery library, this plugin, and call $("#background").perfectBg(); in your document.ready().
+include jquery library, this plugin, and call $("#background").perfectBg(); in your document.ready(). \\
 where #background is the CSS ID of your background image & your content goes inside div #maincontent.
 
 ```javascript
