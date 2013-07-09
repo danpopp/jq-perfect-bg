@@ -12,6 +12,7 @@ on window resize the background is faded out and faded back in appropriately sca
 how does it work?
 =============
 include jquery library, this plugin, and call $("#background").perfectBg(); in your document.ready().
+where #background is the CSS ID of your background image & your content goes inside div #maincontent.
 
 ```javascript
 <script src="js/jquery.js"></script>
@@ -22,9 +23,6 @@ $(document).ready(function() {
 });
 </script>
 ```
-
-where #background is the CSS ID of your background image & your content goes inside div #maincontent.
-
 
 required css
 =============
