@@ -3,6 +3,8 @@ jq-perfect-bg
 
 jquery-perfect-background
 
+based on viewport width
+
 what does it do?
 =============
 maintains aspect ratio, center positioning, and scale after each window resize or orientation change.
