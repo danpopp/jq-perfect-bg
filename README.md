@@ -65,8 +65,10 @@ where is it from?
 
 just give me the demo!
 =============
-The index.html file in this github example.
+The index.html file in this github example:
+
 http://danpopp.net/demos/jq-perfect-bg/
 
-A mash-up integrating a lightbox and menu.
+A mash-up integrating colorbox and navigation:
+
 http://danpopp.net/demos/jq-perfect-bg-colorbox/
