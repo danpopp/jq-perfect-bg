@@ -18,6 +18,8 @@ include jquery library, this plugin, and call $("#background").perfectBg(); in y
 
 where #background is the CSS ID of your background image & your content goes inside div #maincontent.
 
+required javascript
+=============
 ```javascript
 <script src="js/jquery.js"></script>
 <script src="js/jq-perfect-bg.js"></script>
@@ -57,6 +59,15 @@ body {
   z-index: 50;
   display: none;
   }
+```
+
+required html
+=============
+```html
+<img src="path/to/background.jpg" id="background" alt=""/>
+<div id="maincontent">
+<!--your content goes here-->  
+</div>
 ```
 
 where is it from?
