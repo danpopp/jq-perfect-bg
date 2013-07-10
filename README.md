@@ -29,6 +29,17 @@ $(document).ready(function() {
 required css
 =============
 ```css
+html, body {
+  height:100%; 
+  width:100%; 
+  margin:0; 
+  padding:0;
+}
+
+body {
+  overflow:hidden;
+}
+
 #background
   {
   display:none;
@@ -54,4 +65,8 @@ where is it from?
 
 just give me the demo!
 =============
-Click Here
+The index.html file in this github example.
+http://danpopp.net/demos/jq-perfect-bg/
+
+A mash-up integrating a lightbox and menu.
+http://danpopp.net/demos/jq-perfect-bg-colorbox/
